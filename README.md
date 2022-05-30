@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm LuLu and I'm a student of Computer Science Engineering at Nova School of Science and Technology.
+I'm Lourenço and I'm a student of Computer Science Engineering at Nova School of Science and Technology.
 
 <!--
 **LuLuIsProgramming/LuLuIsProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
